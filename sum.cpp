@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-int add(int a,int b)
+int add(int a,int b)    //function to add two numbers
 {
     return a+b;
 }
